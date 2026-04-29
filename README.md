@@ -2,6 +2,7 @@
 # Portafolio de Ciencia de Datos: De los Datos Crudos a Decisiones con Impacto
 
 **Author / Autora:** Evelyn Berenice Hernández Ramírez
+
 **Status / Estado:** Henry Student — Final Stage / Alumna de Henry — Etapa Final
 
 ---
