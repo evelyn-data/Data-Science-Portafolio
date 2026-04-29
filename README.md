@@ -23,7 +23,7 @@ This repository compiles my end-to-end data science projects developed during my
 
 ### Featured Project
 
-#### 📊 [Sales Analysis & Interactive Dashboard — TechCore](./M3_TechCore-Sales-Analysis/)
+#### 📊 [Sales Analysis & Interactive Dashboard — TechCore](./Projects%20by%20Module/M3_TechCore-Sales-Analysis/)
 
 > End-to-end data project for TechCore, a retail chain specialized in computers and tech accessories. Built a complete pipeline from raw billing data to an interactive Power BI dashboard.
 
@@ -52,7 +52,7 @@ Este repositorio reúne mis proyectos integradores de ciencia de datos desarroll
 
 ### Proyecto Destacado
 
-#### 📊 [Análisis de Ventas y Dashboard Interactivo — TechCore](./M3_TechCore-Sales-Analysis/)
+#### 📊 [Análisis de Ventas y Dashboard Interactivo — TechCore](./Projects%20by%20Module/M3_TechCore-Sales-Analysis/)
 
 > Proyecto end-to-end para TechCore, una cadena minorista especializada en computadores y accesorios tecnológicos. Se construyó un pipeline completo desde los datos crudos de facturación hasta un dashboard interactivo en Power BI.
 
